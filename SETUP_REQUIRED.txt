@@ -1,0 +1,9 @@
+SETUP REQUIRED - Edit android/local.properties with your paths:
+
+sdk.dir=C:\\Users\\YourName\\AppData\\Local\\Android\\Sdk
+flutter.sdk=C:\\flutter
+flutter.versionName=1.0.0
+flutter.versionCode=1
+
+Replace YourName with your Windows username.
+If Flutter is installed elsewhere, update flutter.sdk accordingly.
